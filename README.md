@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamanashis-Biswas
 - 👀 I’m interested in Game Development , Website Design and Android App Development
-- 🌱 I’m currently learning Pythone, C#
+- 🌱 I’m currently learning Python, C# and Flutter
 - 💞️ I’m looking to collaborate on a good Teem
 - 📫 How to reach me on Linkdin https://www.linkedin.com/in/kamanashis-biswas-755a21132/
 
