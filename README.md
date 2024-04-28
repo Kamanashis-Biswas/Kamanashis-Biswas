@@ -14,7 +14,7 @@ I have recently completed a B.Sc in Computer Science. I have also developed some
 
 ## 📫Explore my Portfolio :
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)[![Portfolio](https://kamanashisbiswas.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=%23FF7139)](https://kamanashisbiswas.com/)
 
 ## 🌐Socials :
 
@@ -33,10 +33,6 @@ I have recently completed a B.Sc in Computer Science. I have also developed some
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kamanashis-Biswas&theme=dark&hide_border=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamanashis-Biswas&theme=dark&hide_border=true&langs_count=8)](https://github.com/Kamanashis-Biswas/github-readme-stats)
 
-# 🚀Github Activity Graph :
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kamanashis-Biswas&theme=gotham&hide_border=true)
-
 ## 🏆GitHub Trophies :
 
 ![](https://github-profile-trophy.vercel.app/?username=Kamanashis-Biswas&theme=gotham&hide_border=true&no-frame=true&no-bg=false&margin-w=4)
@@ -44,4 +40,3 @@ I have recently completed a B.Sc in Computer Science. I have also developed some
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Kamanashis-Biswas&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
-
