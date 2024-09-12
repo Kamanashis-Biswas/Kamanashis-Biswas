@@ -26,7 +26,7 @@ I have recently completed a B.Sc in Computer Science. I have also developed some
 
 # 🎯GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Kamanashis-Biswas&include_all_commits=true&theme=aura&count_private=true&custom_title=Kamanashis-Biswas%27s%20GitHub%20Stats)</br>
+![](https://github-readme-stats.vercel.app/api?username=Kamanashis-Biswas&include_all_commits=true&theme=aura&count_private=true&custom_title=Kamanashis-Biswas%27s%20GitHub%20Stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kamanashis-Biswas&theme=dark&hide_border=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamanashis-Biswas&theme=dark&hide_border=true&langs_count=8)](https://github.com/Kamanashis-Biswas/github-readme-stats)
 
