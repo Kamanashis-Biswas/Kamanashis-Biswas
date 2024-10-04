@@ -31,7 +31,7 @@ I recently completed a B.Sc in Computer Science and am now actively seeking oppo
 
 ### 💡 Expertise:
 
-- **HTML5**, **CSS3**, **Bootstrap5**, **Tailwind CSS**, **daisyUI**, **Flowbite**
+- **HTML5**, **CSS3**, **Bootstrap5**, **Tailwind CSS**, **daisyUI**, **Flowbite**, **Shadcn/ui**
 
 ### ⚡ Comfortable:
 
@@ -116,12 +116,5 @@ I recently completed a B.Sc in Computer Science and am now actively seeking oppo
 ## 📊 GitHub followers:
 
 ## ![GitHub followers](https://img.shields.io/github/followers/Kamanashis-Biswas?style=for-the-badge)
-
-## 🎮 Snake Game using Contributions Graph:
-
-![snake gif](https://raw.githubusercontent.com/Kamanashis-Biswas/Kamanashis-Biswas/output/snake.svg)
-![Contribution snake example](https://github.com/<Kamanashis-Biswas>/<Kamanashis-Biswas>/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Kamanashis+Biswas!;Full+Stack+Developer+(MERN);Open+to+collaboration+and+learning!+%F0%9F%92%BB>)
