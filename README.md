@@ -88,7 +88,7 @@ I recently completed a B.Sc in Computer Science and am now actively seeking oppo
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kamanashis-Biswas&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamanashis-Biswas&theme=dark&hide_border=true&langs_count=8)](https://github.com/Kamanashis-Biswas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamanashis-Biswas&layout=pie&theme=transparent)](https://github.com/Kamanashis-Biswas/github-readme-stats)
 
 </div>
 
