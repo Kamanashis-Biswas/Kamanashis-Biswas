@@ -72,7 +72,7 @@ I recently completed a B.Sc in Computer Science and am now actively seeking oppo
 
 ---
 
-### 👨‍💻 My Gols:
+### 👨‍💻 My Goals:
 
 - Create impactful web solutions that meet user needs.
 - Collaborate with teams to foster innovation.
