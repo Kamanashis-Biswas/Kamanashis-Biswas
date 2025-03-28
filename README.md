@@ -108,7 +108,7 @@ I recently completed a B.Sc in Computer Science and am now actively seeking oppo
 --- -->
 
 ## 📊 Profile Views:
-
+https://komarev.com/ghpvc/?username=kamanashis-biswas&label=Profile%20views&color=0e75b6&style=flat
 ![Profile Views](https://visitcount.itsvg.in/api?id=Kamanashis-Biswas&label=Profile%20Views&color=0&icon=5&pretty=true)
 
 ---
