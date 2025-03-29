@@ -1,4 +1,4 @@
-## ![I am GitHub Readme Generator's creator](https://ibb.co/Wv1rc3VD)
+## ![I am GitHub Readme Generator's creator](https://i.ibb.co/m57nHBNv/Grey-And-White-Modern-Linked-In-Article-Cover-Image.gif)
 
 # 👨‍💻 Kamanashis Biswas
 
